@@ -1,0 +1,14 @@
+{
+  "name": "FitTrack Pro",
+  "description": "A comprehensive Android-style fitness tracker for walking, jogging, hydration, sleep, medicine, and diet with detailed progress reports.",
+  "requestFramePermissions": [
+    "notifications",
+    "accelerometer",
+    "gyroscope"
+  ],
+  "majorCapabilities": [
+    "fitness_tracking",
+    "data_visualization",
+    "reminders"
+  ]
+}
